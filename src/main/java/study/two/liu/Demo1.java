@@ -75,5 +75,10 @@ public class Demo1 {
 
         //ok写累了，好几个综合练习，不想搞了，先留着，下周搞，
         //我要开始面向对象了
+        //git add .
+        //git commit -m "这里写本次修改内容，例如：新增xx练习题"
+        //git push origin main
+        //git推送到github嗯多加练习嘻嘻
+
     }
 }
